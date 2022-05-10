@@ -1,4 +1,4 @@
-package GoSearch
+package main
 
 import "fmt"
 
